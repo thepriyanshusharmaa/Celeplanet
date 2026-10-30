@@ -1,0 +1,2 @@
+# Preserve exact upstream bytes for SHA-256 verification on every OS.
+* -text
