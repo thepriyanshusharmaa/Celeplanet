@@ -1,0 +1,9 @@
+# Character reference render
+
+Mode: built-in image generation, using the official Celebi artwork as an anatomy reference.
+
+Outcome: the service rejected the output (moderation category `other`); no generated image was delivered or used. The model was refined in code against the official reference instead. No CLI fallback was used.
+
+## Prompt
+
+Use case: stylized-concept. Asset type: character look-development reference for CELEPLANET's real-time 3D Celebi subproject. Input image is an identity/anatomy reference from the official Pokédex. Create a polished single three-quarter FRONT view of Celebi hovering, full body, centered, on a warm neutral charcoal studio background, no words or logos. Faithfully retain the official Celebi silhouette and proportions: large swept pointed onion-shaped light green head, two slender green antennae with blue tips, huge blue eyes with dark rims and highlights, small green torso, slender arms ending in three small fingers and small rounded feet. Give skin convincing smooth satin 3D volume with rich GREEN GRADIENTS: pale lime/yellow-green forehead and cheeks, fresh leaf-green sides, deeper emerald-green shadow on the back of the head and torso. Fine subtle leaf-like grooves converge toward the swept head tip. Cute organic fantasy creature, no fur, no gritty reptile skin. Most important: exactly TWO wings TOTAL, one per side, rooted together high on its back, long narrow translucent tapered oval/leaf fairy wings pointing diagonally outward and back, clear membrane with very subtle icy green-blue reflections and fine edge, NOT butterfly wings, NO four lobes, NO lower pair of wings, no opaque white petal blobs. Wings visible past shoulders in natural hovering pose. Soft forest-like light from upper left, gentle green bounce, natural eye reflections. This image will guide geometry and shader improvements, not replace interactive 3D.

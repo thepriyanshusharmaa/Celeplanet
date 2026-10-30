@@ -1,0 +1,37 @@
+html, body, #root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+}
+
+body { background: #14271e; overflow: hidden; }
+
+.hero-viewport {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.hero-viewport::before {
+  content: "";
+  position: absolute;
+  inset: -60px;
+  z-index: -1;
+  background: linear-gradient(#10271dd9, #10271de8), url('/landing-pages/inner-green-assets/daylight-forest-4k.jpg') center / cover;
+  filter: blur(35px);
+}
+
+.shader-frame {
+  position: absolute;
+  width: 1600px;
+  height: 900px;
+  top: 50%;
+  left: 50%;
+  transform-origin: center;
+  overflow: hidden;
+  border-radius: 16px;
+  box-shadow: 0 32px 110px #06140b66, 0 0 0 1px #e7edcb24;
+}

@@ -1,0 +1,130 @@
+/* CELEPLANET / Daylight Field Guide — DOM styling only.
+   Keep the original stage, canvas, scene geometry and animation untouched. */
+html, body { background: #e1e6d6; overflow: hidden; }
+.hero {
+  --ink: #173b2a;
+  --ink-soft: #536756;
+  --card: #f8f7ed;
+  --card-ink: #183528;
+  --card-label: #67765f;
+  background: #e1e6d6 url('inner-green-assets/daylight-forest-4k.jpg') center / cover;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background: linear-gradient(110deg, #eef0debb 0%, #e8eddd66 35%, #fff8e422 70%), linear-gradient(0deg, #d9e1d34d, transparent 55%);
+}
+.hero::after {
+  content: none;
+}
+.hero .guides, .hero .ghost, .hero .stat, .hero .scroll { display: none; }
+
+.hero .dock-wrap { top: calc(28 * var(--u)); }
+.hero .dock {
+  gap: calc(10 * var(--u));
+  height: calc(55 * var(--u));
+  padding: calc(4 * var(--u));
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
+}
+.hero .dock-item {
+  height: calc(45 * var(--u));
+  padding: 0 calc(21 * var(--u));
+  border-radius: calc(30 * var(--u));
+  background: transparent;
+  color: #193b2a;
+  font-size: calc(14 * var(--u));
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+}
+.hero .dock-item .glyph { display: none; }
+.hero .dock-item.is-active, .hero .dock-item[data-near='true'] {
+  background: #faf9efed;
+  border-color: #fff8;
+  color: #193b2a;
+  box-shadow: 0 calc(4 * var(--u)) calc(18 * var(--u)) #35452a09;
+}
+.hero .dock-mark, .hero .dock-mark[data-near='true'] {
+  width: calc(263 * var(--u));
+  margin-right: calc(22 * var(--u));
+  padding: 0 calc(8 * var(--u));
+  gap: calc(13 * var(--u));
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
+}
+.hero .dock-mark svg { width: calc(27 * var(--u)); height: calc(37 * var(--u)); flex: none; }
+.brand-name { font-size: calc(17 * var(--u)); font-weight: 500; letter-spacing: calc(3.5 * var(--u)); }
+.hero .dock-item--enter { display: none; }
+
+.hero .headline {
+  left: calc(60 * var(--u));
+  top: calc(161 * var(--u));
+  color: #133523;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: calc(75 * var(--u));
+  font-weight: 400;
+  line-height: 1.01;
+  letter-spacing: calc(-2.5 * var(--u));
+}
+.hero .headline span { padding-bottom: .015em; }
+.hero .lede {
+  left: calc(64 * var(--u));
+  top: calc(338 * var(--u));
+  width: calc(440 * var(--u));
+  color: #526753;
+  font-size: calc(21 * var(--u));
+  font-weight: 300;
+  line-height: 1.4;
+}
+.hero .pill-clip { left: calc(184 * var(--u)); top: calc(477 * var(--u)); }
+.hero .liquid-stage--explore .liquid-plate {
+  background: linear-gradient(145deg, #36573b, #193e2e);
+  box-shadow: 0 calc(10 * var(--u)) calc(26 * var(--u)) #243f3529, inset 0 1px #ffffff40;
+}
+.hero .liquid-stage--explore .ico { order: 2; }
+.hero .play-wrap { left: calc(525 * var(--u)); top: calc(590 * var(--u)); }
+
+.hero .card {
+  z-index: 4;
+  border: 1px solid #ffffff8c;
+  border-radius: calc(30 * var(--u));
+  background: #f8f7edfa;
+  box-shadow: 0 calc(14 * var(--u)) calc(44 * var(--u)) #213d2617;
+}
+.hero .card:hover { box-shadow: 0 calc(22 * var(--u)) calc(55 * var(--u)) #213d2629; }
+.hero .card::before {
+  content: '';
+  position: absolute;
+  right: calc(16 * var(--u));
+  bottom: calc(10 * var(--u));
+  width: calc(100 * var(--u));
+  height: calc(148 * var(--u));
+  background: url('inner-green-assets/botanical.svg') center / contain no-repeat;
+  opacity: .25;
+  pointer-events: none;
+}
+.hero .card--about { left: calc(1110 * var(--u)); top: calc(145 * var(--u)); width: calc(435 * var(--u)); height: calc(215 * var(--u)); }
+.hero .card figure { border-radius: calc(22 * var(--u)); }
+.hero .card--about figure { left: calc(15 * var(--u)); right: auto; top: calc(15 * var(--u)); width: calc(260 * var(--u)); height: calc(110 * var(--u)); }
+.hero .card .label { color: #66765e; font-weight: 400; font-size: calc(10 * var(--u)); letter-spacing: calc(2 * var(--u)); text-transform: uppercase; }
+.hero .card h2 { color: #173927; font-family: Georgia, 'Times New Roman', serif; font-size: calc(25 * var(--u)); font-weight: 400; line-height: 1.08; letter-spacing: calc(-.6 * var(--u)); }
+.hero .card--about .label { left: calc(27 * var(--u)); top: calc(144 * var(--u)); }
+.hero .card--about h2 { left: calc(27 * var(--u)); top: calc(165 * var(--u)); width: calc(320 * var(--u)); }
+.hero .knob-float { left: calc(1475 * var(--u)); top: calc(295 * var(--u)); width: calc(45 * var(--u)); height: calc(45 * var(--u)); }
+.hero .knob--about, .hero .card .knob { width: calc(45 * var(--u)); height: calc(45 * var(--u)); background: #d2e39f; box-shadow: none; }
+.hero .knob--about:hover, .hero .card .knob:hover { background: #e1efb5; }
+.hero .knob svg { color: #25452d; }
+.hero .card--stove { left: calc(1195 * var(--u)); top: calc(465 * var(--u)); width: calc(350 * var(--u)); height: calc(200 * var(--u)); }
+.hero .card--stove figure { left: auto; right: calc(14 * var(--u)); top: calc(14 * var(--u)); bottom: calc(14 * var(--u)); width: calc(170 * var(--u)); height: auto; }
+.hero .card--stove .label { left: calc(22 * var(--u)); top: calc(40 * var(--u)); font-size: calc(9 * var(--u)); letter-spacing: calc(1.5 * var(--u)); }
+.hero .card--stove h2 { left: calc(22 * var(--u)); top: calc(67 * var(--u)); width: calc(140 * var(--u)); }
+.hero .card--stove .knob { right: calc(24 * var(--u)); bottom: calc(24 * var(--u)); }
+.hero .card--stove::before { right: auto; left: calc(37 * var(--u)); bottom: 0; height: calc(80 * var(--u)); }
+.hero .lede { color:#25452f; font-weight:400; }
+.hero .card .label { color:#3a533b; font-weight:500; }

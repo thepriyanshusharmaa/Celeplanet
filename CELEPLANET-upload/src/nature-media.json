@@ -1,0 +1,262 @@
+{
+  "panda": {
+    "src": "/nature/panda.jpg",
+    "author": "Sunuwargr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
+    "description": "The red panda is a small, tree-dwelling mammal native to the Himalayas, known for its reddish fur, bushy tail, and shy nature. I photograph it in Langtang National Park, Helambu, Nepal",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "ant": {
+    "src": "/nature/ant.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leaf-cutter_ant_(Atta_cephalotes)_Belize_4.jpg",
+    "description": "Leaf-cutter ant (Atta cephalotes) with minim, near San Ignacio, Cayo district, Belize. A minim leaf-cutter worker ant rides on the leaf fragment. It defends the leaf-carrier from attack by parasitic flies and cleans the leaf fragment of bacteria or fungi. The minims also tend the fungus farm. Their head size is less than 1mm (0.04 inch).",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Leaf-cutter_ant_%28Atta_cephalotes%29_Belize_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "sloth": {
+    "src": "/nature/sloth.jpg",
+    "author": "Daniella Maraschiello",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bicho-pregui%C3%A7a_3.jpg",
+    "description": "Preguiça-comum (Bradypus variegatus).",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bicho-pregui%C3%A7a_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "firefly": {
+    "src": "/nature/firefly.jpg",
+    "author": "Bruce Marlin",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Photuris_lucicrescens.jpg",
+    "description": "Adult beetle in the family Lampyridae, commonly called \"firefly or lightning bug\".",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/52/Photuris_lucicrescens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "sunrise": {
+    "src": "/nature/sunrise.jpg",
+    "author": "Vad 7",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Forest_Sunrise_(122256965).jpeg",
+    "description": "500px provided description: Forest Sunrise [#autumn ,#landscape ,#sunrise ,#morning ,#forest ,#color ,#nature ,#sun ,#light ,#film ,#natural ,#lightning ,#landscapes ,#border ,#toning ,#natural light ,#sony nex ,#natural world ,#nature photograph ,#nature pics ,#2015 ,#nex5t ,#g44-2 ,#2015_]",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/Forest_Sunrise_%28122256965%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "evening": {
+    "src": "/nature/evening.jpg",
+    "author": "Eric Kilby",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_Forest_Edge.jpg",
+    "description": "Grand Teton National Park",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sunset_Forest_Edge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "rain": {
+    "src": "/nature/rain.jpg",
+    "author": "Martin Vorel",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Autumn_Forest_Wet_Bark.jpg",
+    "description": "This is a photo by Martin Vorel that I reuploaded from his website https://libreshot.com. He explicitly marks his photos as CC0.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Autumn_Forest_Wet_Bark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "winter": {
+    "src": "/nature/winter.jpg",
+    "author": "Susulyka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beech_forest_M%C3%A1tra_in_winter.jpg",
+    "description": "Beech forest in the Mátra mountains (Hungary)",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Beech_forest_M%C3%A1tra_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "spring": {
+    "src": "/nature/spring.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portglenone_Forest_Bluebells_-_May_2008.jpg",
+    "description": "Bluebells in Portglenone Forest in spring. Taken by myself with a Canon 5D and 24-150mm f/4L IS lens.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Portglenone_Forest_Bluebells_-_May_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "tropical": {
+    "src": "/nature/tropical.jpg",
+    "author": "lubasi",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Amazon_Rainforest.jpg",
+    "description": "Visão do Alto, da janela do avião, o Rio Solimões, parecendo uma cobra grande, como é chamado pelos indígenas. Rio Solimóes - Amazonia - Floresta Amazonica - Brasil.\n\nFollow us in: twitter.com/cryforthearth",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Aerial_view_of_the_Amazon_Rainforest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "boreal": {
+    "src": "/nature/boreal.jpg",
+    "author": "Bartosh Dmytro, Ukraine, Kiev. http://fotostudio.com.ua",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jack_London_Lake_by_bartosh.jpg",
+    "description": "Jack London Lake  — at Kolyma, Magadan Oblast, far eastern Russia. \nPinus pumila in foreground, Taiga forests in backround.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Jack_London_Lake_by_bartosh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "moss": {
+    "src": "/nature/moss.jpg",
+    "author": "IvoShandor",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Tionesta-ac-moss2.jpg",
+    "description": "Tionesta, Allegheny National Forest.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tionesta-ac-moss2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "summer": {
+    "src": "/nature/summer.jpg",
+    "author": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Easy_Access_Path,_High_Beach,_Essex,_England_4.jpg",
+    "description": "Easy Access Path and wheelchair trail adjacent to Epping Forest Visitor Centre in High Beach (alternatively High Beech) in Epping Forest and the parish of Waltham Abbey, Essex, England.Mobile device view: Wikimedia (at August 2019) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Epping Forest, High Beach, and this uploader's Trees and Paths photos. You can add a beta click-through 'categories' button to the very bottom of photo-pages you view by going to settings... three-bar icon top left.Desktop view: Wikimedia (at August 2019) makes it difficult to immediately view the helpful category links where you can find images related to this one in a variety of ways; for these go to the very bottom of the page.This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name number and/or time marking. Camera: Panasonic Lumix DMC-TZ90.Software: File lens-corrected, optimized, perhaps cropped, with DxO PhotoLab 2 Elite, and likely further optimized with Adobe Photoshop CS2.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/61/Easy_Access_Path%2C_High_Beach%2C_Essex%2C_England_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "rainfall": {
+    "src": "/nature/rainfall.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Khao_Yai,_Thailand,_Khao_Yai_grasslands_under_the_rain,_tropical_monsoon.jpg",
+    "description": "Khao Yai has a diverse plant community: dry evergreen forests, dry deciduous forests, tropical moist evergreen forests, hill evergreen forests and grasslands. Khao Yai Forest, Thailand.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Khao_Yai%2C_Thailand%2C_Khao_Yai_grasslands_under_the_rain%2C_tropical_monsoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "autumn": {
+    "src": "/nature/autumn.jpg",
+    "author": "Scott Wylie",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Autumn_Forest_and_wood_trees_16.jpg",
+    "description": "Autumn forest and wood trees",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Autumn_Forest_and_wood_trees_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "owl": {
+    "src": "/nature/owl.jpg",
+    "author": "Dion Art",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D0%B0%D1%8F_%D0%BD%D0%B5%D1%8F%D1%81%D1%8B%D1%82%D1%8C_(Strix_nebulosa,_m),_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4.jpg",
+    "description": "Этот самец бородатой неясыти остановился на пролёте на пару недель в Главном ботаническом саду им. Цицина в Москве. Всё это время бородач удерживал толпу из сотен зевак и охотников с трубами за пол-лимона. Умело манипулируя двуногими, у него получилось выловить множество чёрных мышей из окрестных зоомагазинов (даже слетая, белых он принципиально не брал). Объедаясь днём, он продолжал охотиться и по ночам. За время своих звёздных гастролей избавился от местного конкурента, краснокнижного мохноногого сычика, оставив только несколько его перьев.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D0%B0%D1%8F_%D0%BD%D0%B5%D1%8F%D1%81%D1%8B%D1%82%D1%8C_%28Strix_nebulosa%2C_m%29%2C_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "frog": {
+    "src": "/nature/frog.jpg",
+    "author": "Brian Gratwicke",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithobates_sylvaticus_(Woodfrog).jpg",
+    "description": "Lithobates sylvaticus (Woodfrog)",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "chameleon": {
+    "src": "/nature/chameleon.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panther_chameleon_(Furcifer_pardalis)_male_Nosy_Be.jpg",
+    "description": "Panther chameleon (Furcifer pardalis) male, Lokobe Strict Reserve, Nosy Be, Madagascar",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "gecko": {
+    "src": "/nature/gecko.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gold_dust_day_gecko_(Phelsuma_laticauda)_Nosy_Komba.jpg",
+    "description": "Gold dust day gecko (Phelsuma laticauda) Nosy Komba, Madagascar",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gold_dust_day_gecko_%28Phelsuma_laticauda%29_Nosy_Komba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "elephant": {
+    "src": "/nature/elephant.jpg",
+    "author": "Thomas Breuer",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Loxodontacyclotis.jpg",
+    "description": "Forest elephants (Loxodonta cyclotis) in the swamp Mbeli Bai, Nouabalé-Ndoki National Park, Congo. Despite a near universal ban on trade in ivory, poaching is placing the African Forest Elephant — distinct from the Savannah Elephant — in serious jeopardy.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Loxodontacyclotis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "stick": {
+    "src": "/nature/stick.jpg",
+    "author": "Fritz Geller-Grimm and Felix Grimm",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Caylar_fg01.JPG",
+    "description": "Spanish Walking Stick (Pijnackeria hispanica), Le Caylar, Languedoc-Roussillon, France",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Le_Caylar_fg01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "orangutan": {
+    "src": "/nature/orangutan.jpg",
+    "author": "Nanosanchez",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tanjung_Puting30477.jpg",
+    "description": "Male of orangutan in Tanjung Puting National Park,Central Kalimantan, Borneo.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tanjung_Puting30477.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "orchid": {
+    "src": "/nature/orchid.jpg",
+    "author": "Orchi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_amabilis_Orchi_198.jpg",
+    "description": "Phalaenopsis amabilis",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Phalaenopsis_amabilis_Orchi_198.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "fungus": {
+    "src": "/nature/fungus.jpg",
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mycena_interrupta.jpg",
+    "description": "Mycena interrupta, Myrtle Forest, Collinsvale, Tasmania, Australia.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mycena_interrupta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "monarch": {
+    "src": "/nature/monarch.jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_(70387).jpg",
+    "description": "Monarch butterfly (Danaus plexippus) on Salvia uliginosa in Brooklyn Botanic Garden.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Monarch_butterfly_%2870387%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  },
+  "fern": {
+    "src": "/nature/fern.jpg",
+    "author": "Sid Mosdell from New Zealand",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fern_Fronds_(6626307231).jpg",
+    "description": "Soft morning light on a tree fern in our garden.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Fern_Fronds_%286626307231%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Resized and JPEG-compressed for the web; cropped to fit the page."
+  }
+}
